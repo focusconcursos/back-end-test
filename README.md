@@ -5,7 +5,6 @@ O Focus Concursos é uma empresa que oferece cursos online preparatórios para c
 ## Instruções
 1. Faça um fork deste repositório;
 2. Implemente os items descritos na próxima seção;
-3. Faça um pull request para este repositório;
 
 ## O que esperamos que desenvolva
 O teste consiste em gerar uma API que tenha os recursos de CRUD de produto e realize o cálculo de frete, usando serviço dos Correios, entre 02 CEP's.
