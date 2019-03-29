@@ -9,7 +9,9 @@ O Focus Concursos é uma empresa que oferece cursos online preparatórios para c
 
 ## O que esperamos que desenvolva
 O teste consiste em gerar uma API que tenha os recursos de CRUD de produto e realize o cálculo de frete, usando serviço dos Correios, entre 02 CEP's.
+
 Utilize sqlite como banco de dados para o teste.
+
 Relação de tarefas para executar o teste:
 1. Criar migrations e seeders para a tabela produto;
 2. Criar comando no composer.json que permita executar refresh e seeder no banco;
